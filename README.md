@@ -24,27 +24,27 @@ The whole process is split into three parts, which is reflected in the structure
 The names of the scripts are quite indicative, and each script is reasonably commented. 
 
 ## CONTENTS OF THE REPRODUCIBILITY PACKAGE
-Directories and sub-directories in alphabetical order.
-= "_output" the results are stored here
-= "data0_supplementary"
-=== "EU_nuts" NUTS-2 classification for EU-28, version 2010
-= "data1_raw" raw data downloaded here
-=== "Eurostat" official data from Eurostat
-===== "observed" data for the observed period, 2003-2012
-===== "projected" projected data, EUROPOP2013 regional, 2013-2042
-=== "Missing_data" data from national statistical offices and HMD needed to fill the missings and harmonize the data (sub-directories will appear after the execution of script "2.04_missing_download&unzip.R")
-===== "raw_DE" data for Germany
-===== "raw_DK" data for Denmark
-===== "raw_SI" data for Slovenia
-= "data2_prepared" prepared for the analysis raw data
-= "data3_calculated" ready for the analysis and visualization data are stored here
-= "geo_data" spatial objects prepared for R, needed to map the results
-= "R_packages" a directory where the package "checkpoint" and its dependences will be installed
-=== ".checkpoint" directory for all other required packages, handled by "checkpoint"  package in a reproducible way.
-= "R_scripts"
-=== "0_own_finctions"
-=== "1_preparation"
-=== "2_data_manipulation"
-=== "3_analysis"
-=== "master_script.R" - !!! this is the main script to be run !!!
-= "2016_Genus_Kashnitsky.Rproj" RStudio project file
+Directories and sub-directories in alphabetical order.  
+= "_output" the results are stored here  
+= "data0_supplementary"  
+=== "EU_nuts" NUTS-2 classification for EU-28, version 2010  
+= "data1_raw" raw data downloaded here  
+=== "Eurostat" official data from Eurostat  
+===== "observed" data for the observed period, 2003-2012  
+===== "projected" projected data, EUROPOP2013 regional, 2013-2042  
+=== "Missing_data" data from national statistical offices and HMD needed to fill the missings and harmonize the data (sub-directories will appear after the execution of script "2.04_missing_download&unzip.R")  
+===== "raw_DE" data for Germany  
+===== "raw_DK" data for Denmark  
+===== "raw_SI" data for Slovenia  
+= "data2_prepared" prepared for the analysis raw data  
+= "data3_calculated" ready for the analysis and visualization data are stored here  
+= "geo_data" spatial objects prepared for R, needed to map the results  
+= "R_packages" a directory where the package "checkpoint" and its dependences will be installed  
+=== ".checkpoint" directory for all other required packages, handled by "checkpoint"  package in a reproducible way.  
+= "R_scripts"  
+=== "0_own_finctions"  
+=== "1_preparation"  
+=== "2_data_manipulation"  
+=== "3_analysis"  
+=== "master_script.R" - !!! this is the main script to be run !!!  
+= "2016_Genus_Kashnitsky.Rproj" RStudio project file  
