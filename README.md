@@ -1,3 +1,5 @@
+# ATTENTION! Work in progres -- will be finished soon
+
 # Reproducibility materials for the paper
 >Kashnitsky, I., Beer, J. de, & Wissen, L. van. (2017). Decomposition of regional convergence in population aging across Europe. Genus, 73(1), 2. https://doi.org/10.1186/s41118-017-0018-2
 
