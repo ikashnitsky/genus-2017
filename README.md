@@ -1,4 +1,4 @@
-# ATTENTION! Work in progres -- will be finished soon. I plan to update all the scripts and store at github unzipped
+# ATTENTION! Work in progres -- will be finished soon. I plan to update all the scripts and store them at github unzipped
 ***
   
 # Reproducibility materials for the paper
