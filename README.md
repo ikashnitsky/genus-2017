@@ -1,3 +1,6 @@
+[![doi](https://img.shields.io/badge/DOI-10.1186%2Fs41118--017--0018--2-lightgrey.svg?style=for-the-badge)][doi]
+[![osf](https://img.shields.io/badge/OSF-d4hjx-lightgrey.svg?style=for-the-badge)][osf]
+
 # Reproducibility materials for the paper
 >Kashnitsky, I., Beer, J. de, & Wissen, L. van. (2017). Decomposition of regional convergence in population aging across Europe. Genus, 73(1), 2. [https://doi.org/10.1186/s41118-017-0018-2][doi]
 
